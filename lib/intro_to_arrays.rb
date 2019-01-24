@@ -23,3 +23,8 @@ end
 def first_element_with_array_methods(array)
   array_with_two_elements.first
 end
+
+def last_element_with_array_methods(array)
+  my_new_array = [1, 2, 3, 4]
+
+end
