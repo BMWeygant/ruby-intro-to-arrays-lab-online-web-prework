@@ -3,7 +3,7 @@ my_new_array = []
 end
 
 def array_with_two_elements
-  my_new_array = [1, "Out of The Woods"]
+  my_new_array = ["Thailand", "Out of The Woods"]
 end
 
 def first_element(array)
