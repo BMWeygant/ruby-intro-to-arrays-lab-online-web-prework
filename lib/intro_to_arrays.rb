@@ -13,4 +13,5 @@ end
 
 def third_element(array)
 my_new_array = [1, 2, 3]
+my_new_array[2]
 end
