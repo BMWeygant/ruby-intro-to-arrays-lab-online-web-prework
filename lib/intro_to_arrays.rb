@@ -25,8 +25,7 @@ def first_element_with_array_methods(array)
 end
 
 def last_element_with_array_methods(array)
-  my_new_array = [1, 2, 3, "Myanmar"]
-  my_new_array.last
+  array.last
 end
 
 def length_of_array(array)
