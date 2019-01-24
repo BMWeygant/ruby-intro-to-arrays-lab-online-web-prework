@@ -19,3 +19,7 @@ end
 def last_element(array)
   array_with_two_elements[-1]
 end
+
+def first_element_with_array_methods(array)
+  array_with_two_elements.first
+end
