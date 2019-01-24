@@ -10,3 +10,7 @@ def first_element(array)
   my_new_array = ["Welcome to New York"]
 my_new_array[0]
 end
+
+def third_element
+
+end
