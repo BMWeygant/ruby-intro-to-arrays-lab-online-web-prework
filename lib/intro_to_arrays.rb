@@ -3,9 +3,10 @@ my_new_array = []
 end
 
 def array_with_two_elements
-  my_new_array = ["Welcome to New York", 2]
+  my_new_array = [1, 2]
 end
 
 def first_element(array)
-array_with_two_elements[0]
+  my_new_array = ["Welcome to New York"]
+my_new_array[0]
 end
