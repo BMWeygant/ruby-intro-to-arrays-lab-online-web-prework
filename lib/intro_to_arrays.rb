@@ -11,6 +11,6 @@ def first_element(array)
 my_new_array[0]
 end
 
-def third_element
-
+def third_element(array)
+my_new_array = [1, 2, 3]
 end
